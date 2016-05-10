@@ -1,8 +1,8 @@
 {
-  "name": "creative",
-  "title": "Creative",
-  "version": "1.0.3",
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
+  "name": "agency",
+  "title": "Agency",
+  "version": "1.0.7",
+  "homepage": "http://startbootstrap.com/template-overviews/agency",
   "author": "Start Bootstrap",
   "license": {
     "type": "MIT",
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   }
 }
